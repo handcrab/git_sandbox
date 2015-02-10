@@ -1,0 +1,3 @@
+[submodule "firstapp"]
+	path = firstapp
+	url = https://github.com/handcrab/firstapp.git
